@@ -1,0 +1,9 @@
+5 June 2011
+-----------------------------------------------------------
+
+-- This is a working version but with missing features. For
+   example, the timer will not alarm as soon as it reaches the
+   0:00 mark.
+
+   The alarm shall be dealt with later.
+
